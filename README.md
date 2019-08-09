@@ -1,2 +1,2 @@
-# default-environment-charts
-The default git repository used when creating new GitOps based Environments
+# OCR Production Environment
+Final production environment for finished OCR development
